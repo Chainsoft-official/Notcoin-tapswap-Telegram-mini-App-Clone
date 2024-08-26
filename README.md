@@ -1,10 +1,14 @@
-# Notcoin-tapswap-Telegram-mini-App-Clone
+# TapSwap, Hamster, and Notcoin Mini-App Clones
 
-Welcome to the **Gazacoin Mini-Game**! This repository contains all the information and code needed to get started with our engaging and rewarding tapping game designed for the Gazacoin community.
+Welcome to our exclusive collection of **TapSwap, Hamster, and Notcoin Mini-App Clones**! These are high-quality clones of popular Telegram mini-apps, perfect for launching your own engaging and rewarding crypto games. Packed with advanced features, these clones are designed to provide a seamless experience for users while offering powerful management tools for administrators.
 
-## Overview
+## Key Features
 
-Gazacoin Mini-Game is a simple yet addictive game where players tap on the screen to earn points and coins. The game is designed to integrate with the Gazacoin ecosystem, allowing players to purchase upgrades, earn Gazacoins, and even engage in offline mining. The game also features social components, where players can invite friends and participate in referral programs to earn even more rewards.
+### 1. Multi-Level System
+- **Dynamic Progression**: Users can progress through multiple levels, with the clickable image’s skin changing at each level to keep the gameplay fresh and visually appealing.
+
+### 2. Offline Mining
+- **Continuous Earnings**: Users can continue to earn rewards even when they’re offline, with options to upgrade their offline mining capabilities for increased rewards.
 
 ## Watch the Game in Action
 
@@ -16,54 +20,43 @@ Gazacoin Mini-Game is a simple yet addictive game where players tap on the scree
 
 Click the image above to watch the video.
 
-## Features
 
-### 1. Tapping Game Mechanics
-- **Central Coin**: Players tap on a central coin displayed on the screen to earn points.
-- **Energy Bar**: Located at the bottom of the screen, this bar decreases with each tap but refills over time, allowing continuous gameplay.
+### 3. Boosters
+- **Daily Energy Refill**: Users receive daily energy top-ups, ensuring they stay engaged.
+- **Tap Boosters**: Boost the effectiveness of each tap, allowing users to earn more with each action.
+- **Energy Boosters**: Increase the energy cap, enabling longer and more rewarding gameplay sessions.
 
-### 2. Boost Features
-- **Refill Energy**: Players can refill their energy up to six times a day to extend their gameplay.
-- **Multitap Upgrade**: This feature allows players to double their earnings per tap by upgrading their tapping capability.
-- **Boost Energy**: Initially, energy is capped at 500, but players can upgrade this limit to 3000, enhancing their gameplay duration.
+### 4. Friends Section
+- **Invite & Earn**: Users can invite friends to join the game and earn bonus rewards. The more friends they invite, the higher their rewards.
+- **NFT Integration**: Users who hold NFTs from your system can earn even greater rewards, adding an extra incentive for engagement.
 
-### 3. Level Progression
-- The background images change as players progress through different levels, providing a visual representation of their advancement. For example, Level 1 features a "Tent" image, which evolves into a "Small Brick House" by Level 3.
+### 5. Daily Tasks
+- **Social Tasks**: Integrate your social media channels like Telegram, Twitter, TikTok, and others, allowing users to subscribe and earn rewards.
+- **YouTube Tasks**: Add daily updates on YouTube, encouraging users to stay engaged with your content.
+- **Referral Tasks**: Create referral milestones that users can achieve to earn more, boosting user acquisition.
+- **Quiz System**: Include daily quizzes that users can solve for extra rewards, making the experience both fun and educational.
 
-### 4. Offline Mining
-- **Offline Mining Tab**: Players can upgrade their mining capabilities using tokens earned in the game. Even when not actively using the app, mining continues, providing a steady flow of Gazacoins.
+### 6. Airdrop Feature
+- **TON Wallet Integration**: When users connect their TON Wallet, their address is saved, allowing you to easily send airdrops and rewards directly to them.
 
-### 5. Social and Referral Features
-- **Friends Tab**: Players can invite friends using a referral link. When a friend joins the game through the link, both the player and the friend earn 5K Gazacoins. If the friend holds an NFT, additional bonuses are awarded.
-- **Referral Tasks**: Players can complete daily referral tasks to earn extra Gazacoins, further engaging with the community.
+### 7. NFT Integration
+- **Increased Rewards**: Users who hold NFTs will earn more as their referral level increases, encouraging investment and deeper engagement with your platform.
 
-### 6. Earn Tab
-- A variety of daily tasks are available for players to complete, including:
-  - Social media engagements
-  - Quizzes
-  - Watching YouTube videos
-  - Referral tasks
+### 8. Comprehensive Admin Panel
+- **Full Control**: Manage your entire system effortlessly with a beautifully designed admin panel. You can handle user management, task management, and easily add new social tasks, YouTube updates, quizzes, and referral milestones daily.
 
-### 7. Airdrop Feature
-- **Airdrop Integration**: When a player connects their TON Wallet, their address is saved in the database, allowing for seamless participation in airdrops.
+## Pricing and Installation
 
-## Bot Previews
+- **Price**: 400 USDT (ERC20)
+- **Includes**: Free installation
 
-<img src="https://github.com/Chainsoft-official/NotCoinBot/blob/main/bin/thumbnail.png" />
+We offer this powerful source code at an affordable price of **400 USDT (ERC20)**, with **free installation** included to ensure you’re up and running quickly and smoothly.
 
-## Buying
-Contact Me: [Chainsoft.pk](https://linktr.ee/Chainsoft.pk?utm_source=linktree_admin_share)
+---
 
-<p float="left">
-  <img src="https://github.com/user-attachments/assets/226a790b-9dc6-4425-a735-54f83cdac537" width="200" />
-</p>
+For more information or to purchase, please contact us at:
+- **Telegram**: [Telegram](https://web.telegram.org/a/)
+- **WhatsApp**: +923066303835
+- **Instagram**: [Instagram](https://www.instagram.com/chainsoft_officiall/)
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-## Contact
-- **Telegram** : [Telegram](https://web.telegram.org/a/)
-- **WhatsApp** : +923066303835
-- **Instagram** : [Instagram](https://www.instagram.com/chainsoft_officiall/)
-
-For a detailed video walkthrough of the Gazacoin Mini-Game, watch [this YouTube video](https://www.youtube.com/watch?v=U6bFDPL6AmM&t=154s).
+We look forward to helping you launch your own successful mini-app on Telegram with our feature-rich clones.
