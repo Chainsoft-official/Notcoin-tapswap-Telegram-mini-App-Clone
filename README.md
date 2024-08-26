@@ -8,7 +8,11 @@ Gazacoin Mini-Game is a simple yet addictive game where players tap on the scree
 
 ## Watch the Game in Action
 
-[![Gazacoin Mini-Game Overview](https://img.youtube.com/vi/U6bFDPL6AmM/0.jpg)](https://www.youtube.com/watch?v=U6bFDPL6AmM&t=154s)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=U6bFDPL6AmM&t=154s" target="_blank">
+    <img src="https://img.youtube.com/vi/U6bFDPL6AmM/0.jpg" alt="Gazacoin Mini-Game Overview" width="600" />
+  </a>
+</p>
 
 Click the image above to watch the video.
 
@@ -62,4 +66,4 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 - **WhatsApp** : +923066303835
 - **Instagram** : [Instagram](https://www.instagram.com/chainsoft_officiall/)
 
-
+For a detailed video walkthrough of the Gazacoin Mini-Game, watch [this YouTube video](https://www.youtube.com/watch?v=U6bFDPL6AmM&t=154s).
