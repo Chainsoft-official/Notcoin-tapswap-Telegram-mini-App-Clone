@@ -6,7 +6,11 @@ Welcome to the **Gazacoin Mini-Game**! This repository contains all the informat
 
 Gazacoin Mini-Game is a simple yet addictive game where players tap on the screen to earn points and coins. The game is designed to integrate with the Gazacoin ecosystem, allowing players to purchase upgrades, earn Gazacoins, and even engage in offline mining. The game also features social components, where players can invite friends and participate in referral programs to earn even more rewards.
 
-Check out a video overview of the game here: [Watch on YouTube](https://www.youtube.com/watch?v=U6bFDPL6AmM&t=154s)
+## Watch the Game in Action
+
+[![Gazacoin Mini-Game Overview](https://img.youtube.com/vi/U6bFDPL6AmM/0.jpg)](https://www.youtube.com/watch?v=U6bFDPL6AmM&t=154s)
+
+Click the image above to watch the video.
 
 ## Features
 
@@ -58,4 +62,4 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 - **WhatsApp** : +923066303835
 - **Instagram** : [Instagram](https://www.instagram.com/chainsoft_officiall/)
 
-For a detailed video walkthrough of the Gazacoin Mini-Game, watch [this YouTube video](https://www.youtube.com/watch?v=U6bFDPL6AmM&t=154s).
+
