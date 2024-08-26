@@ -39,7 +39,7 @@ Gazacoin Mini-Game is a simple yet addictive game where players tap on the scree
 
 ## Bot Previews
 <p float="center">
-  <img src="" width="800" height="800"/>
+  <img src="https://github.com/Chainsoft-official/NotCoinBot/blob/main/bin/thumbnail.png" width="800" height="800"/>
 
 </p>
 
