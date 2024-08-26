@@ -6,6 +6,8 @@ Welcome to the **Gazacoin Mini-Game**! This repository contains all the informat
 
 Gazacoin Mini-Game is a simple yet addictive game where players tap on the screen to earn points and coins. The game is designed to integrate with the Gazacoin ecosystem, allowing players to purchase upgrades, earn Gazacoins, and even engage in offline mining. The game also features social components, where players can invite friends and participate in referral programs to earn even more rewards.
 
+Check out a video overview of the game here: [Watch on YouTube](https://www.youtube.com/watch?v=U6bFDPL6AmM&t=154s)
+
 ## Features
 
 ### 1. Tapping Game Mechanics
@@ -38,21 +40,15 @@ Gazacoin Mini-Game is a simple yet addictive game where players tap on the scree
 - **Airdrop Integration**: When a player connects their TON Wallet, their address is saved in the database, allowing for seamless participation in airdrops.
 
 ## Bot Previews
-<p float="center">
-  <img src="https://github.com/Chainsoft-official/NotCoinBot/blob/main/bin/thumbnail.png" width="800" height="800"/>
 
-</p>
-
-## Technologies Used
-- **Frontend**: HTML, CSS, JavaScript, React
-- **Backend**: JavaScript
+<img src="https://github.com/Chainsoft-official/NotCoinBot/blob/main/bin/thumbnail.png" />
 
 ## Buying
 Contact Me: [Chainsoft.pk](https://linktr.ee/Chainsoft.pk?utm_source=linktree_admin_share)
 
-
-  <img src="https://github.com/user-attachments/assets/226a790b-9dc6-4425-a735-54f83cdac537"  />
-
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/226a790b-9dc6-4425-a735-54f83cdac537" width="200" />
+</p>
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
@@ -61,3 +57,5 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 - **Telegram** : [Telegram](https://web.telegram.org/a/)
 - **WhatsApp** : +923066303835
 - **Instagram** : [Instagram](https://www.instagram.com/chainsoft_officiall/)
+
+For a detailed video walkthrough of the Gazacoin Mini-Game, watch [this YouTube video](https://www.youtube.com/watch?v=U6bFDPL6AmM&t=154s).
