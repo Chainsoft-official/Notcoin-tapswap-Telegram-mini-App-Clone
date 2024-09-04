@@ -3,7 +3,7 @@
 Welcome to **Chainsoft**, your one-stop solution for fully customizable Telegram mini-games! We offer a clone of the most popular mini-games: **TapSwap Clone**, **Hamster Clone**, and **NotCoin Clone**. This game is equipped with a multi-level system, reward mechanisms, and seamless NFT integration. With **free installation** included, you can deploy your game quickly and effortlessly.
 
 <p align="center">
- <img src="https://github.com/Chainsoft-official/NotCoinBot/blob/main/bin/thumbnail.png" />
+ <img src="https://github.com/Chainsoft-official/NotCoinBot/blob/main/bin/thumbnail.png" alt="Gazacoin Mini-Game Overview"/>
 </p>
 
 ## Features Overview
@@ -31,10 +31,10 @@ Welcome to **Chainsoft**, your one-stop solution for fully customizable Telegram
 ## Preview of Game Bot
 
 <p align="center">
- <img src="https://github.com/Chainsoft-official/NotCoinBot/blob/main/Notcoin-1.png" width="400" />
- <img src="https://github.com/Chainsoft-official/NotCoinBot/blob/main/1.png" width="400" />
- <img src="https://github.com/Chainsoft-official/NotCoinBot/blob/main/2.png" width="400" />
- <img src="https://github.com/Chainsoft-official/NotCoinBot/blob/main/3.png" width="400" />
+ <img src="https://github.com/Chainsoft-official/NotCoinBot/blob/main/Notcoin-1.png" width="400" alt="Gazacoin Mini-Game Overview"/>
+ <img src="https://github.com/Chainsoft-official/NotCoinBot/blob/main/1.png" width="400" alt="Gazacoin Mini-Game Overview"/>
+ <img src="https://github.com/Chainsoft-official/NotCoinBot/blob/main/2.png" width="400" alt="Gazacoin Mini-Game Overview"/>
+ <img src="https://github.com/Chainsoft-official/NotCoinBot/blob/main/3.png" width="400" alt="Gazacoin Mini-Game Overview"/>
 </p>
 
 ### 6. "Earn" Tab with Rewarding Milestones
@@ -64,8 +64,12 @@ Our clones come with a **user-friendly admin panel** that gives you full control
 - **Real-Time Updates**: All task updates and system changes are reflected in real-time, ensuring a seamless experience for your users.
 - **Reward Management**: Manage all in-game rewards, airdrops, and referral bonuses directly from the panel.
   
-## Pricing
-The **source code** for our mini-game clones is priced at **300 USDT (ERC20)**, which includes **free installation** to ensure a hassle-free setup. You'll get a fully functional, ready-to-use game deployed on your Telegram server.
+## Pricing and Installation
+
+- **Price**: 300 USDT (ERC20)
+- **Includes**: Free installation
+  
+The **source code** for our mini-game clone is priced at **300 USDT (ERC20)**, which includes **free installation** to ensure a hassle-free setup. You'll get a fully functional, ready-to-use game deployed on your Telegram server.
 
 ## How to Buy
 To purchase our game clone,
@@ -77,7 +81,7 @@ For inquiries or support,
 contact us via [Chainsoft.pk](https://linktr.ee/Chainsoft.pk?utm_source=linktree_admin_share).
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/226a790b-9dc6-4425-a735-54f83cdac537" width="200" />
+  <img src="https://github.com/user-attachments/assets/226a790b-9dc6-4425-a735-54f83cdac537" width="200" alt="Gazacoin Mini-Game Overview"/>
 </p>
 
 ## About Chainsoft
