@@ -1,69 +1,88 @@
-# TapSwap, Hamster, and Notcoin Mini-App Clones
+# Not Coin Clone - Hamster-Kombat-Clicker - Tapswap Mini Game Clone - Telegram Mini Game Clone - Gazacoin Clone
 
-Welcome to our exclusive collection of **TapSwap, Hamster, and Notcoin Mini-App Clones**! These are high-quality clones of popular Telegram mini-apps, perfect for launching your own engaging and rewarding crypto games. Packed with advanced features, these clones are designed to provide a seamless experience for users while offering powerful management tools for administrators.
-
-## Key Features
-
-### 1. Multi-Level System
-- **Dynamic Progression**: Users can progress through multiple levels, with the clickable image’s skin changing at each level to keep the gameplay fresh and visually appealing.
-
-### 2. Offline Mining
-- **Continuous Earnings**: Users can continue to earn rewards even when they’re offline, with options to upgrade their offline mining capabilities for increased rewards.
-
-## Watch the Game in Action
+Welcome to **Chainsoft**, your one-stop solution for fully customizable Telegram mini-games! We offer a clone of the most popular mini-games: **TapSwap Clone**, **Hamster Clone**, and **NotCoin Clone**. This game is equipped with a multi-level system, reward mechanisms, and seamless NFT integration. With **free installation** included, you can deploy your game quickly and effortlessly.
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=U6bFDPL6AmM&t=154s" target="_blank">
-    <img src="https://img.youtube.com/vi/U6bFDPL6AmM/0.jpg" alt="Gazacoin Mini-Game Overview" width="600" />
+ <img src="https://github.com/Chainsoft-official/NotCoinBot/blob/main/bin/thumbnail.png" />
+</p>
+
+## Features Overview
+
+### 1. Progressive Level System
+- **Dynamic Levels**: Users start at level 1 and progressively level up by fulfilling in-game requirements. Each new level presents fresh challenges, making gameplay more engaging.
+- **Background Customization**: The background and clickable image skins automatically change with each level, providing a visually rich user experience as players progress.
+
+### 2. Boosters to Enhance Gameplay
+- **Daily Energy Refill**: Users get a daily refill of energy, ensuring they can keep playing without waiting.
+- **Tap Boosters**: Accelerate user actions by offering tap boosters, helping them meet level requirements faster.
+- **Energy Boosters**: Allow users to enhance the amount of energy they have, keeping them engaged for longer periods.
+
+### 3. Offline Mining System
+- **Offline Earning**: Users can continue to earn resources while they are not actively playing. This system is ideal for keeping users invested in the game even during their downtime.
+- **Mining Upgrades**: Players can purchase or unlock upgrades to their mining capabilities, allowing for more efficient offline earnings over time.
+
+### 4. Friends & Referral System
+- **Invite & Earn**: Players can invite their friends to the game, earning special bonuses for every successful invite. This encourages social sharing and viral growth of the user base.
+- **Scaling Rewards**: As players refer more friends, their rewards increase, making it highly incentivizing to keep sharing the game with their social circles.
+  
+### 5. NFT Integration System
+- **Exclusive NFT Bonuses**: If users hold specific NFTs within your system, they will be entitled to receive additional in-game rewards and special bonuses, providing an additional layer of engagement and investment.
+
+## Preview of Game Bot
+
+<p align="center">
+ <img src="https://github.com/Chainsoft-official/NotCoinBot/blob/main/Notcoin-1.png" width="400" />
+ <img src="https://github.com/Chainsoft-official/NotCoinBot/blob/main/1.png" width="400" />
+ <img src="https://github.com/Chainsoft-official/NotCoinBot/blob/main/2.png" width="400" />
+ <img src="https://github.com/Chainsoft-official/NotCoinBot/blob/main/3.png" width="400" />
+</p>
+
+### 6. "Earn" Tab with Rewarding Milestones
+Users can further engage with the following earning mechanisms:
+- **Referral Level System**: As players refer more users, their referral level increases, unlocking even greater rewards.
+- **Daily Tasks**: Keep your users engaged with four different types of daily tasks:
+  - **Social Tasks**: Integrate your Telegram, Twitter, TikTok, and other social media channels into the game. Players will receive tasks to subscribe, like, or follow your profiles.
+  - **YouTube Tasks**: You can embed YouTube content, allowing users to engage with your daily updates or promotional videos.
+  - **Referral Tasks**: Set up referral milestones to push users to invite more friends for milestone-based rewards.
+  - **Quiz System**: Add daily quizzes that players can solve for extra rewards. These quizzes can be customized and updated through the admin panel.
+
+### 7. Airdrop Integration
+- **TON Wallet Support**: When players connect their TON wallet, you will collect their wallet addresses, which can later be used for distributing airdrops. This makes it easy to engage with users through targeted reward campaigns or giveaways.
+
+## Admin Panel in Action
+
+<p align="center">
+  <a href="https://www.chainsoft.pk/taptoearn" target="_blank">
+    <img src="https://github.com/Chainsoft-official/NotCoinBot/blob/main/Laptop%20Mockup.png" alt="Gazacoin Mini-Game Overview" />
   </a>
 </p>
 
-Click the image above to watch the video.
+### 8. Admin Panel - Full Control at Your Fingertips
+Our clones come with a **user-friendly admin panel** that gives you full control over every aspect of the game. Key features of the admin panel include:
+- **User Management**: View and manage all users, track their progress, and address any issues.
+- **Task Management**: Effortlessly add or update daily tasks, including social media tasks, YouTube content, referral milestones, and quizzes.
+- **Real-Time Updates**: All task updates and system changes are reflected in real-time, ensuring a seamless experience for your users.
+- **Reward Management**: Manage all in-game rewards, airdrops, and referral bonuses directly from the panel.
+  
+## Pricing
+The **source code** for our mini-game clones is priced at **300 USDT (ERC20)**, which includes **free installation** to ensure a hassle-free setup. You'll get a fully functional, ready-to-use game deployed on your Telegram server.
 
+## How to Buy
+To purchase our game clone,
 
-### 3. Boosters
-- **Daily Energy Refill**: Users receive daily energy top-ups, ensuring they stay engaged.
-- **Tap Boosters**: Boost the effectiveness of each tap, allowing users to earn more with each action.
-- **Energy Boosters**: Increase the energy cap, enabling longer and more rewarding gameplay sessions.
+please visit our official [Website](https://www.chainsoft.pk/taptoearn).
 
-### 4. Friends Section
-- **Invite & Earn**: Users can invite friends to join the game and earn bonus rewards. The more friends they invite, the higher their rewards.
-- **NFT Integration**: Users who hold NFTs from your system can earn even greater rewards, adding an extra incentive for engagement.
+For inquiries or support,
 
-### 5. Daily Tasks
-- **Social Tasks**: Integrate your social media channels like Telegram, Twitter, TikTok, and others, allowing users to subscribe and earn rewards.
-- **YouTube Tasks**: Add daily updates on YouTube, encouraging users to stay engaged with your content.
-- **Referral Tasks**: Create referral milestones that users can achieve to earn more, boosting user acquisition.
-- **Quiz System**: Include daily quizzes that users can solve for extra rewards, making the experience both fun and educational.
+contact us via [Chainsoft.pk](https://linktr.ee/Chainsoft.pk?utm_source=linktree_admin_share).
 
-### 6. Airdrop Feature
-- **TON Wallet Integration**: When users connect their TON Wallet, their address is saved, allowing you to easily send airdrops and rewards directly to them.
-
-### 7. NFT Integration
-- **Increased Rewards**: Users who hold NFTs will earn more as their referral level increases, encouraging investment and deeper engagement with your platform.
-
-### 8. Comprehensive Admin Panel
-- **Full Control**: Manage your entire system effortlessly with a beautifully designed admin panel. You can handle user management, task management, and easily add new social tasks, YouTube updates, quizzes, and referral milestones daily.
-
-## Pricing and Installation
-
-- **Price**: 400 USDT (ERC20)
-- **Includes**: Free installation
-
-We offer this powerful source code at an affordable price of **400 USDT (ERC20)**, with **free installation** included to ensure you’re up and running quickly and smoothly.
-
-
-## Buying
-Contact Me: [Chainsoft.pk](https://linktr.ee/Chainsoft.pk?utm_source=linktree_admin_share)
-
-<p float="left">
+<p align="center">
   <img src="https://github.com/user-attachments/assets/226a790b-9dc6-4425-a735-54f83cdac537" width="200" />
 </p>
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+## About Chainsoft
+At **Chainsoft**, we are committed to developing high-quality, customizable mini-game solutions for Telegram. Our mission is to provide you with a fully interactive, user-friendly, and engaging game environment that will grow your community and increase user retention. With our advanced features like level progression, NFT integration, and seamless admin control, we offer the best tools to elevate your gaming platform.
 
-## Contact
-- **Telegram** : [Telegram](https://web.telegram.org/a/)
-- **WhatsApp** : +923066303835
-- **Instagram** : [Instagram](https://www.instagram.com/chainsoft_officiall/)
+---
+
+For any further questions or support, please don't hesitate to contact us via our [Website](https://www.chainsoft.pk/) or [Chainsoft.pk](https://linktr.ee/Chainsoft.pk?utm_source=linktree_admin_share).
